@@ -1,0 +1,31 @@
+<!--pages/findList/findList.wxml-->
+<image class="top_img " src="{{photo?photo:picture}}"></image>
+<view class="userinfo-avatar ">
+	<image mode="widthFix" src="{{picture}}"></image>
+</view>
+<view class="conta">
+    <view class="centent " wx:key="">
+        <view class="text-xl ">
+            <text class="text-black text-bold">{{name}}</text>
+        </view>  
+    </view>
+    <view>
+        <view class="solid-bottom text-lg padding">
+            <text class="text-black text-bold">症状</text>
+        </view>
+        <view class=" text-df padding">{{zhengzhuang}}</view>
+      <view class="solid-bottom text-lg padding">
+        <text class="text-black text-bold">病原</text>
+      </view>
+      <view class=" text-df padding">{{bingyuan}}</view>
+      <view class="solid-bottom text-lg padding">
+        <text class="text-black text-bold">传播途径和发病条件</text>
+      </view>
+      <view class=" text-df padding">{{chuanbo}}</view>
+      <view class="solid-bottom text-lg padding">
+        <text class="text-black text-bold">防治方法</text>
+      </view>
+      <view class=" text-df padding">{{fangzhi}}</view>
+    </view>
+</view>
+ 

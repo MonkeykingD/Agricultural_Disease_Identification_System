@@ -1,0 +1,69 @@
+<cu-custom bgColor="bg-gradual-orange" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">番茄</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=42">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2016.png?sign=4ee8cfd4f335cbea346ac65430dbbb7c&t=1668171896" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">番茄白粉病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=44">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2017.png?sign=feb98064905761aa520a00c2ef3fbc87&t=1668171916" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">番茄疮痂病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=46">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2018.png?sign=0449ddb7c55bf4b89fbaeca57a7bf9dc&t=1668171986" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">番茄早疫病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=48">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2019.png?sign=19d781492aea5e82ef5ea501674dc8db&t=1668172011" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">番茄晚疫病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

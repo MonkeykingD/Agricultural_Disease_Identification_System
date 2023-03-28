@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/component/apple/apple",
+    "pages/component/cherry/cherry",
+    "pages/component/corn/corn",
+    "pages/component/grape/grape",
+    "pages/component/orenge/orenge",
+    "pages/component/peach/peach",
+    "pages/component/chili/chili",
+    "pages/component/potato/potato",
+    "pages/component/strawberry/strawberry",
+    "pages/component/tomato/tomato",
+    "pages/card/card"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "领域综合设计",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "cu-custom": "/static/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,18 @@
+<cu-custom bgColor="bg-gradual-pink" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">草莓</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=39">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2015.png?sign=09a5bd0a5e43ed6b5b22419e445ef55b&t=1668171770" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">草莓叶枯病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

@@ -1,0 +1,18 @@
+<cu-custom bgColor="bg-orange " isBack="{{true}}"><view slot="backText">返回</view><view slot="content">柑橘</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=25">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2010.png?sign=8ff96e73270093ad128a486b311325bb&t=1668171133" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">柑橘黄龙病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

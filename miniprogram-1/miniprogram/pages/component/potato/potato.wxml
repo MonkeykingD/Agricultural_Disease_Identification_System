@@ -1,0 +1,35 @@
+<cu-custom bgColor="bg-brown light" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">马铃薯</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=34">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2012.png?sign=b516d7e6ba784e5db4537df3de8d608f&t=1668171487" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">马铃薯早疫病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=36">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2014.png?sign=0eeb6937cd4004c0e878367f98f468b6&t=1668171527" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">马铃薯晚疫病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

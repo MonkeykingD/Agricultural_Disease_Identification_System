@@ -1,0 +1,18 @@
+<cu-custom bgColor="bg-red" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">辣椒</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+<navigator url="../../card/card?id=31">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2013.png?sign=22bfb3f41ad041ee43c3f7c8852f120d&t=1668171397" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">辣椒疮痂病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

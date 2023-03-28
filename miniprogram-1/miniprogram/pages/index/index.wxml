@@ -1,0 +1,29 @@
+<view>
+    <scroll-view scroll-y class="scrollPage">
+        <view class="UCenter-bg bg-purple padding radius text-center light">
+            <button class="tapbtn1" plain="true" bindtap="image">
+                <image src="/images/logo.png" class="png" mode="widthFix"></image>
+            </button>
+            
+        <view class="text-xxl text-bold">农业病虫害智能识别系统
+        </view>
+        <view class="margin-top-sm">
+            <text class="text-black bold">-李瑞&戴宇豪-</text>
+        </view>
+        <view >
+            <text class="text-black " >联合出品</text>
+        </view>
+        <image src="../../images/wave.gif" mode="scaleToFill" class="gif-wave"></image>
+        </view>
+        <view class="bg-white padding"></view>
+        <view class="bg-white">
+            <view class='nav-list padding-top:10px '>
+                <navigator open-type="navigate" hover-class='none' url="/pages/component/{{item.name}}/{{item.name}}" class="nav-li bg-{{item.color}} shadow-blur" wx:for="{{elements}}" wx:key >
+                    <view class="nav-title">{{item.title}}</view>
+                    <view class="nav-name">{{item.name}}</view>
+                    <text class='cuIcon-{{item.icon}}'></text>
+                </navigator>
+            </view>
+        </view>
+    </scroll-view>
+</view>

@@ -1,0 +1,18 @@
+<cu-custom bgColor="bg-pink light" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">桃子</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=28">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%2011.png?sign=3577c122013b8d3f7c39ab1b305cfd21&t=1668171267" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">桃疮痂病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

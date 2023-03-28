@@ -1,0 +1,139 @@
+/* pages/findList/findList.wxss */
+page{
+    background-color: white;
+  }
+  .top_img{
+    width: 100%;
+    height: 480rpx;
+    z-index: -1;
+    position: absolute;
+  }
+   
+  .userinfo-avatar {
+    overflow:hidden;
+    display: block;
+    position: absolute;
+    left: 25rpx;
+    top: 350rpx;
+    width: 170rpx;
+    height: 170rpx;
+    z-index: 2;
+    border-radius: 12rpx;
+    margin: 20rpx;
+    margin-top: 50rpx;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  }
+   
+
+.conta{
+    position: absolute;
+    top: 450rpx;    
+    width: 99%;
+    padding-bottom: 30rpx;
+    border-radius: 10px;
+    height: 70rpx;
+    
+    margin-left: 3rpx;
+    position: absolute;
+    top: 450rpx;
+    z-index: 1;
+    background-color: white;
+}
+  .centent{
+    padding-top: 30rpx;
+    border-radius: 10px;
+    height: 120rpx;
+    width: 100%;
+    padding-left:250rpx ;
+    z-index: 1;
+    background-color: white;
+  }
+  .head{
+    width: 90rpx;
+    height: 90rpx;
+    border-radius: 10rpx;
+    margin: 16rpx;
+  }
+  .img{
+    width:220rpx;
+    margin-top: 20rpx;
+    border-radius: 4rpx;
+  }
+  .time{
+    font-size: 26rpx;
+    color: #999;
+    margin-top: 30rpx;
+    margin-bottom: 20rpx;
+  }
+  .comment{
+    background-color: #F7F8F8;
+    color: #546689;
+    font-size: 60rpx;
+    border-radius: 8rpx;
+    width: 70rpx;
+    height: 40rpx;
+    position: absolute;
+    right: 30rpx;
+    line-height: 35rpx;
+    text-align: center;
+  }
+  .tanchuang{
+    display: flex;
+    flex-direction: row;
+    background-color: #484848;
+    border-radius: 8rpx;
+    position: absolute;
+    right: 112rpx;
+    line-height: 80rpx;
+    height: 80rpx;
+    margin-top: -20rpx;
+    color: white;
+    width: 360rpx;
+    font-size: 28rpx;
+  }
+  .aixin{
+    width: 42rpx;
+    margin-top: 20rpx;
+    margin-left: 40rpx;
+    margin-right: 10rpx;
+  }
+  .pinglun{
+    width: 42rpx;
+    margin-top: 20rpx;
+    margin-left: 70rpx;
+    margin-right: 10rpx;
+   
+  }
+  .aixin2{
+    width: 32rpx;
+    margin-top: 20rpx;
+    margin-left: 40rpx;
+    margin-right: 10rpx;
+  }
+  .ax_item{
+    border-bottom: 1px solid #f2f2f2;
+    display: flex;   flex-wrap:wrap
+  }
+  .ax_name{
+    height: 70rpx;
+    line-height: 70rpx;
+  }
+  .pl_block{
+    background-color: #F7F7F7;
+    border-radius: 8rpx;
+    width: 95%;
+    margin-top: 30rpx;
+    color: #546689;
+  }
+  .pl_item{
+    display: flex;   flex-wrap:wrap
+  }
+  .pl_name{
+    height: 70rpx;
+    line-height: 70rpx;
+    margin-left: 40rpx;
+    margin-right: 10rpx;
+  }
+  .pl_name text{
+    color: black;
+  }

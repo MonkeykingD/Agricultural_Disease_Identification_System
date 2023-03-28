@@ -1,0 +1,69 @@
+<cu-custom bgColor="bg-yellow light" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">玉米</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=10">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%203.png?sign=4b2e6ee290fc013267ed3ca0a17b99b0&t=1668170508" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">玉米灰斑病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=12">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%204.png?sign=4cd6bc66e89de74699efb3b2db1af13d&t=1668170585" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">玉米锈病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=16">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%205.png?sign=137e32334068e4bf86238f8c89c1e1e3&t=1668170725" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">玉米花叶病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=14">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E7%8E%89%E7%B1%B3%E5%8F%B6%E6%96%91%E7%97%85.png?sign=abd18590d42af73d468dbe139dbe52ea&t=1668308715" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">玉米叶斑病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

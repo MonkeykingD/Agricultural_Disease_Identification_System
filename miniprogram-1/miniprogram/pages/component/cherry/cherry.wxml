@@ -1,0 +1,18 @@
+<cu-custom bgColor="bg-red light" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">樱桃</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=7">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E6%A8%B1%E6%A1%83.JPG?sign=3d152aae7977990d639bdb50d71acbd0&t=1668172779" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">樱桃白粉病</text>
+      </view>
+    </view>
+  </view>
+
+</view>

@@ -1,0 +1,51 @@
+<cu-custom bgColor="bg-purple light" isBack="{{true}}"><view slot="backText">返回</view><view slot="content">葡萄</view></cu-custom>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=18">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%207.png?sign=6495210cd29239b8b25ef132b5489058&t=1668170923" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">葡萄黑腐病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
+<view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=20">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%208.png?sign=c9a78310acf3cdb12355850bd971e4c2&t=1668170948" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">葡萄轮斑病</text>
+      </view>
+    </view>
+  </view>
+  </view>
+  <view class="cu-card case ">
+  <view class="cu-item shadow">
+    <navigator url="../../card/card?id=22">
+    <view class="image">
+      <image src="https://7373-sss-0gqyqcjz23728d1f-1310678218.tcb.qcloud.la/%E5%9B%BE%E7%89%87%209.png?sign=3a6706c141c31e49d79cf13ce18ad14f&t=1668170990" mode="widthFix"></image>
+      <view class="cu-bar bg-shadeBottom">
+      </view>
+    </view>
+    </navigator>
+    <view class="flex-sub text-center">
+      <view class="solid-bottom text-xl padding">
+        <text class="text-black text-bold">葡萄褐斑病</text>
+      </view>
+    </view>
+  </view>
+
+</view>
